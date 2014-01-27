@@ -3,7 +3,7 @@ Hallucination
 
 ## About ##
 
-Game developed on <Insert Coimbra Game Jam website> 
+Game developed on Coimbra Game Jam <Insert Coimbra Game Jam website> 
 by:
   - Miguel Bernardes
   - Pedro Cristina Marques
